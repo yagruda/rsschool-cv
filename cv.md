@@ -1,4 +1,4 @@
-# Firstname Lastname
+# Yurii Hruda
 
 **Contacts:**  
 - GitHub: [github.com/yagruda](https://github.com/yagruda)  
@@ -32,7 +32,7 @@ Improving my tech skills to become a better manager in IT
 ## Additional Achievements
 - Active triathlete
 - Completed Bosphorus Cross-Continental Swim (6.5 km)  
-- Participation in running marathons and cycling races  
+- Participation in running marathons and cycling races
 
 ---
 
