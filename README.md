@@ -1,1 +1,1 @@
-# rsschool-cv
+https://yagruda.github.io/rsschool-cv/
